@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+#Secrets
+WebAdvert.Web/appsettings.json
+WebAdvert.Web/appsettings.Development.json
+
