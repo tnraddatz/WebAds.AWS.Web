@@ -14,6 +14,7 @@ DotNet Version:
 NuGet Packages: 
 - Amazon.AspNetCore.Identity.Cognito v0.9.0
 - Amazon.Extensions.CognitoAuthentication v1.0.0
+- AWSSDK.S3
 - Microsoft.AspNetCore.App v2.1.1
 - Microsoft.AspNetCore.Razor.Design v2.1.2
 - Microsoft.NetCore.App v2.1.0
